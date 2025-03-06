@@ -1,0 +1,175 @@
+{
+  "questions": [
+      {
+          "id": 0,
+          "question": "¿Qué hechizo usó Harry para matar a Lord Voldemort?",
+          "wrong_answers": [
+              "Avada Kedavra",
+              "Expecto Patronum"
+          ],
+          "correct_answer": "Expelliarmus"
+      },
+      {
+          "id": 1,
+          "question": "¿Qué Patronus pertenece a Luna Lovegood?",
+          "wrong_answers": [
+              "Perro",
+              "Caballo"
+          ],
+          "correct_answer": "Conejo"
+      },
+      {
+          "id": 2,
+          "question": "¿Qué elemento está asociado con Hufflepuff?",
+          "wrong_answers": [
+              "Aire",
+              "Agua"
+          ],
+          "correct_answer": "Tierra"
+      },
+      {
+          "id": 3,
+          "question": "¿Cómo se llamaba el elfo doméstico de la familia Black?",
+          "wrong_answers": [
+              "Dobby",
+              "Winky"
+          ],
+          "correct_answer": "Kreacher"
+      },
+      {
+          "id": 4,
+          "question": "¿Qué es un thestral?",
+          "wrong_answers": [
+              "Un duendecillo",
+              "Un gigante"
+          ],
+          "correct_answer": "Un caballo alado invisible"
+      },
+      {
+          "id": 5,
+          "question": "Cuando se desentierra, ¿qué hará una mandrágora?",
+          "wrong_answers": [
+              "Bailar",
+              "Reir"
+          ],
+          "correct_answer": "Gritar"
+      },
+      {
+          "id": 6,
+          "question": "¿Cedric Diggory se enfrentó a qué raza de dragón en el Torneo de los Tres Magos?",
+          "wrong_answers": [
+              "Verde galés común",
+              "Ridgeback noruego"
+          ],
+          "correct_answer": "Hocico corto sueco"
+      },
+      {
+          "id": 7,
+          "question": "¿En qué posición juega Harry en su equipo de Quidditch?",
+          "wrong_answers": [
+              "Guardián",
+              "Cazador"
+          ],
+          "correct_answer": "Buscador"
+      },
+      {
+          "id": 8,
+          "question": "¿Quién noquea al troll en el baño de mujeres en Harry Potter y la piedra filosofal?",
+          "wrong_answers": [
+              "Harry",
+              "Hermione"
+          ],
+          "correct_answer": "Ron"
+      },
+      {
+          "id": 9,
+          "question": "¿Qué característica comparte Harry con Voldemort?",
+          "wrong_answers": [
+              "Ser un mortífago",
+              "Mismo patronus"
+          ],
+          "correct_answer": "Hablar pársel"
+      },
+      {
+          "id": 10,
+          "question": "¿Cuál es el núcleo de la varita de Lucios Malfoy?",
+          "wrong_answers": [
+              "Lienzo de serpiente",
+              "Cuerno de basilisco"
+          ],
+          "correct_answer": "Lienzo de dragón"
+      },
+      {
+          "id": 11,
+          "question": "¿Cuál era el nombre del perro de 3 cabezas que custodiaba la piedra filosofal?",
+          "wrong_answers": [
+              "Fang",
+              "Aragog"
+          ],
+          "correct_answer": "Fluffy"
+      },
+      {
+          "id": 12,
+          "question": "¿Cuál es el patronus de Hermione Granger?",
+          "wrong_answers": [
+              "Ciervo",
+              "Perro"
+          ],
+          "correct_answer": "Nutria"
+      },
+      {
+          "id": 13,
+          "question": "¿Cuál es el hechizo que desarman a un oponente?",
+          "wrong_answers": [
+              "Asendio",
+              "Colloportus"
+          ],
+          "correct_answer": "Expelliarmus"
+      },
+      {
+          "id": 14,
+          "question": "¿De qué color es la sangre de unicornio?",
+          "wrong_answers": [
+              "Oro",
+              "Azul"
+          ],
+          "correct_answer": "Plata"
+      },
+      {
+          "id": 15,
+          "question": "¿A qué casa perteneció el gran mago Merlin?",
+          "wrong_answers": [
+              "Gryffindor",
+              "Ravenclaw"
+          ],
+          "correct_answer": "Slytherin"
+      },
+      {
+          "id": 16,
+          "question": "¿Cuál Hechizo pertenece a Snape?",
+          "wrong_answers": [
+              "Rictumsempra",
+              "Serpensortia"
+          ],
+          "correct_answer": "Sectumsempra"
+      },
+      {
+          "id": 17,
+          "question": "Hijo de magos pero nacido sin magia",
+          "wrong_answers": [
+              "Muggle",
+              "Animagus"
+          ],
+          "correct_answer": "Squib"
+      },
+      {
+          "id": 18,
+          "question": "¿Quién fue el director de Hogwarts antes de Dumbledore?",
+          "wrong_answers": [
+              "Andromeda Tonks",
+              "Phineas Nigellus Black"
+          ],
+          "correct_answer": "Armando Dippet"
+      }
+  ]
+}
